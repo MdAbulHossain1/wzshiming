@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/wzshiming/profile_stats">
+<a href="https://github.com/wzshiming">
   <img align="center" src="https://github.com/wzshiming/my-stats/raw/master/stats.svg" />
 </a>
 
