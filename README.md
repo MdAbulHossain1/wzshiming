@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/wzshiming/profile_stats">
-  <img align="center" src="https://github.com/wzshiming/profile_stats/raw/gh-pages/wzshiming-stats.svg" />
+  <img align="center" src="https://github.com/wzshiming/my-stats/raw/master/stats.svg" />
 </a>
 
 - 🔭 I’m currently working on [Kubernetes](https://github.com/kubernetes), [Containerd](https://github.com/containerd), [Istio](https://github.com/istio), [Knative](https://github.com/knative).
