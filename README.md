@@ -19,8 +19,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github.com/wzshiming/my-stats/raw/master/stats.svg" />
 </a>
 
-- 🔭 I’m currently working on [Kubernetes](https://github.com/kubernetes), [Containerd](https://github.com/containerd), [Istio](https://github.com/istio), [Knative](https://github.com/knative).
-- 🌱 I’m currently learning English 😄.
-- ✨ I’m currently plan to learn Network Protocol Stack.
-- 📫 How to reach me: wzshiming@foxmail.com, me@zsm.io.
-- 😄 Pronouns: he, his.
+- 🔭 I’m currently working on [Kubernetes](https://github.com/kubernetes), [Containerd](https://github.com/containerd), [Istio](https://github.com/istio), [Knative](https://github.com/knative)
+- ✨ I’m currently learning about Containers and Network Protocol Stack
+- 📫 How to reach me: wzshiming **at** foxmail **dot** com, zjwzshiming **at** gmail **dot** com, me **at** zsm **dot** io
+- 😄 Pronouns: he, his
