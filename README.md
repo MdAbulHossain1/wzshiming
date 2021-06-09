@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Kubernetes](https://github.com/kubernetes), [Containerd](https://github.com/containerd), [Istio](https://github.com/istio), [Knative](https://github.com/knative)
 - ✨ I’m currently learning about Containers and Network Protocol Stack
 - 📫 How to reach me: wzshiming **at** foxmail **dot** com, zjwzshiming **at** gmail **dot** com, me **at** zsm **dot** io
-- 😄 Pronouns: he, his
+- 😄 Pronouns: he/him/his
